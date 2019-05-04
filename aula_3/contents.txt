@@ -1,0 +1,22 @@
+NumPy & Pandas - parte 2
+
+ - Conteúdo geral
+   - talvez começar criando DF com datas...
+   - stack/unstack
+   - nan, fillna, dropna
+   - merge e concat
+   - groupby
+   - multiindex
+   - timeseries
+   - windowing/rolling
+   - ALGO MAIS?
+   - chunks
+
+
+ - Sequência:
+   - correção da "lição de casa"
+   - Merge e Concat
+   - nan, fillna, dropna => merge vai deixar "furos"
+   - groupby
+   - multiindex criados pelo groupby
+   - finalmente, timeseries...
