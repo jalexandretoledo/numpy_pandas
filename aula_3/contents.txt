@@ -11,6 +11,8 @@ NumPy & Pandas - parte 2
    - windowing/rolling
    - ALGO MAIS?
    - chunks
+   - pivot
+   - qcut, cut
 
 
  - Sequência:
